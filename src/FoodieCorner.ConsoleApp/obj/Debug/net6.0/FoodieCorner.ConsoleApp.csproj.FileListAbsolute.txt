@@ -1,0 +1,15 @@
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\bin\Debug\net6.0\FoodieCorner.ConsoleApp.exe
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\bin\Debug\net6.0\FoodieCorner.ConsoleApp.deps.json
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\bin\Debug\net6.0\FoodieCorner.ConsoleApp.runtimeconfig.json
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\bin\Debug\net6.0\FoodieCorner.ConsoleApp.dll
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\bin\Debug\net6.0\FoodieCorner.ConsoleApp.pdb
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\FoodieCorner.ConsoleApp.csproj.AssemblyReference.cache
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\FoodieCorner.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\FoodieCorner.ConsoleApp.AssemblyInfoInputs.cache
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\FoodieCorner.ConsoleApp.AssemblyInfo.cs
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\FoodieCorner.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\FoodieCorner.ConsoleApp.dll
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\refint\FoodieCorner.ConsoleApp.dll
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\FoodieCorner.ConsoleApp.pdb
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\FoodieCorner.ConsoleApp.genruntimeconfig.cache
+D:\Github Training\Dotnet\src\FoodieCorner.ConsoleApp\obj\Debug\net6.0\ref\FoodieCorner.ConsoleApp.dll

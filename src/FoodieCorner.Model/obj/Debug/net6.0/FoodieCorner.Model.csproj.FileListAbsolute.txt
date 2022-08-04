@@ -1,0 +1,15 @@
+D:\Github Training\Dotnet\src\FoodieCorner.Model\bin\Debug\net6.0\FoodieCorner.Model.exe
+D:\Github Training\Dotnet\src\FoodieCorner.Model\bin\Debug\net6.0\FoodieCorner.Model.deps.json
+D:\Github Training\Dotnet\src\FoodieCorner.Model\bin\Debug\net6.0\FoodieCorner.Model.runtimeconfig.json
+D:\Github Training\Dotnet\src\FoodieCorner.Model\bin\Debug\net6.0\FoodieCorner.Model.dll
+D:\Github Training\Dotnet\src\FoodieCorner.Model\bin\Debug\net6.0\FoodieCorner.Model.pdb
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\FoodieCorner.Model.csproj.AssemblyReference.cache
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\FoodieCorner.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\FoodieCorner.Model.AssemblyInfoInputs.cache
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\FoodieCorner.Model.AssemblyInfo.cs
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\FoodieCorner.Model.csproj.CoreCompileInputs.cache
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\FoodieCorner.Model.dll
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\refint\FoodieCorner.Model.dll
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\FoodieCorner.Model.pdb
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\FoodieCorner.Model.genruntimeconfig.cache
+D:\Github Training\Dotnet\src\FoodieCorner.Model\obj\Debug\net6.0\ref\FoodieCorner.Model.dll
